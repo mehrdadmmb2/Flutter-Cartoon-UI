@@ -1,3 +1,5 @@
 # Welcome to Flutter UI challenge
 Demo
-![enter image description here](http://s6.picofile.com/file/8388939184/untitled.gif)
+![enter image description here](http://s6.picofile.com/file/8388940200/Screenshot_1582359610.png =500x)
+
+![enter image description here](http://s6.picofile.com/file/8388940226/Screenshot_1582359613.png =500x)
